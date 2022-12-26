@@ -11,4 +11,6 @@
 <a href="#">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<iframe src="https://giphy.com/embed/RrVJHB3KSTCznWubpd" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<img align='right' src='https://media.giphy.com/media/RrVJHB3KSTCznWubpd/giphy.gif' width='100'>
+
